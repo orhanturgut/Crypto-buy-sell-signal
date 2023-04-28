@@ -2,7 +2,7 @@ import streamlit as st
 from datetime import datetime
 import json
 from requests import Session
-from tradingview_ta import *
+from tradingview_ta import
 import concurrent.futures
 
 class Crypto_analysis:
